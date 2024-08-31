@@ -1,0 +1,7 @@
+{
+  "id": "log4j_fixer",
+  "name": "Log4JFixer",
+  "version": "1.0",
+  "main": "ir.realstresser.Main",
+  "description": "A custom plugin to fix log4j"
+}
